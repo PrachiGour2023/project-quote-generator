@@ -1,1 +1,2 @@
-# project-weather
+# project-quote-generator
+
